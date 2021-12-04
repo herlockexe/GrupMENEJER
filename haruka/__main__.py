@@ -28,7 +28,8 @@ Bot Tam Size Göre🃏
 Spam Engelleme Komutu : 
 /antispam on 
 
-Yapımcı [Yusiqo🇦🇿❤🇹🇷](t.me/yusiqo)
+Sahib/Developer [Herlock](t.me/tht_herlock)
+Developer 2 [Sakir](t.me/sakirbey1)
 
 /help Yazarak Komutları Vb Göre Bilirsiniz
 """
