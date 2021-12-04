@@ -20,7 +20,7 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Selam {}, Benim İsmim {}!
+PM_START = """Selam {}, Benim İsmim Mia!
 
 Sizde Gurubunuzu Spamcılardan Ve Sahtekarlardan Korumak İstiyorsanız Bu
 Bot Tam Size Göre🃏
